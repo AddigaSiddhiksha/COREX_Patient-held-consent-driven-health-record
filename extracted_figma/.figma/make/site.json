@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning, visually appealing websites with ease, tailored for businesses and individuals seeking to enhance their online presence and engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
