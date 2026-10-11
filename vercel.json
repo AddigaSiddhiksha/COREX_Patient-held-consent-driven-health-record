@@ -1,8 +1,8 @@
-<escape>{
+{
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://corex-backend-2bne.onrender.com/api/*"
+      "destination": "https://corex-backend-2bne.onrender.com/api/:path*"
     }
   ]
-}</escape>
+}
